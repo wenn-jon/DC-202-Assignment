@@ -26,7 +26,7 @@ $education = [
     [
         "school" => "Saint Paul's Academy of Inabanga, Bohol",
         "degree" => "Senior High School",
-        "year" => "I forgot -2025"
+        "year" => "2023 -2025"
     ],
 ];
 
